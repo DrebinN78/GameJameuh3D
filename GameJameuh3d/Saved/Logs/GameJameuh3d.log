@@ -572,3 +572,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.04-13.56.17:420][155]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
 [2019.02.04-13.56.25:964][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.02.04-13.56.42:170][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-13.57.35:501][249]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-13.57.35:745][249]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap840570584C9AAB03C00589B8F8CD1F3E.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.04-13.57.39:204][249]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap_BuiltData65BA2247446FE5FF93ACD4AB571AF70E.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
