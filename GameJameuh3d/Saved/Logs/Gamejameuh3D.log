@@ -990,3 +990,81 @@ Exception rethrown at [0]:
 [2019.02.04-16.03.59:859][972]LogSlate: Window 'Message Log' being destroyed
 [2019.02.04-16.04.47:783][381]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Gamejameuh3D
 [2019.02.04-16.04.47:783][381]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.04-16.05.13:058][201]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.04-16.05.13:064][201]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.04-16.05.15:705][331]MapCheck: New page: Map Check
+[2019.02.04-16.05.15:953][331]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.04-16.05.16:008][331]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.04-16.05.20:446][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.02.04-16.05.20:840][331]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.05.20:840][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.04-16.05.20:848][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2019.02.04-16.05.20:857][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.02.04-16.05.20:890][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.02.04-16.05.20:903][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.02.04-16.05.20:956][331]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.04-16.05.20:956][331]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.04-16.05.20:956][331]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-16.05.20:956][331]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.04-16.05.23:271][331]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.04-16.05.23:271][331]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-16.05.23:271][331]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.05.23:271][331]TextureStreamingBuild: Display: Compiling optional shaders took 3.297 seconds.
+[2019.02.04-16.05.23:426][331]LogLevel: Display: Export Material TexCoord Scales took 0.155 seconds.
+[2019.02.04-16.05.23:504][331]TextureStreamingBuild: Display: Build Texture Streaming took 0.077 seconds.
+[2019.02.04-16.05.23:575][331]LightingResults: New page: Lighting Build - 4 févr. 2019 18:05:23
+[2019.02.04-16.05.23:682][331]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.04-16.05.23:686][331]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.04-16.05.23:686][331]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.04-16.05.23:687][331]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.04-16.05.23:687][331]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6180
+[2019.02.04-16.05.28:203][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.04-16.05.28:203][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.04-16.05.28:203][331]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.04-16.05.28:203][331]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.04-16.05.28:203][331]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.04-16.05.28:526][331]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.04-16.05.28:526][331]MapCheck: New page: FirstPersonExampleMap - 4 févr. 2019 18:05:28
+[2019.02.04-16.05.28:527][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,267ms to complete.
+[2019.02.04-16.05.28:550][331]LogEditorBuildUtils: Build time 0:12
+[2019.02.04-16.06.21:574][108]Job is a success!
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.266s
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:      BrickData 265x5x5 = 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:          1: 7.5% covering 6.3% of volume
+[2019.02.04-16.06.22:855][109]LogVolumetricLightmapImport:          2: 90.6% covering 1.2% of volume
+[2019.02.04-16.06.27:202][109]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.02.04-16.06.27:203][109]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.02.04-16.06.27:603][109]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2019.02.04-16.06.27:603][109]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2019.02.04-16.06.27:777][109]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2019.02.04-16.06.27:777][109]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2019.02.04-16.06.27:789][109]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2019.02.04-16.06.27:789][109]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2019.02.04-16.06.27:789][109]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X1024)
+[2019.02.04-16.06.27:825][109]Lightmass on TITATRIX: 56.8 sec total, 164 ms importing, 222 ms setup, 8.89 sec photons, 47.5 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 5:32 min total, 3:23 min processing.
+[2019.02.04-16.06.27:838][109]LogStaticLightingSystem: Illumination: 1:04 min (3.72 sec encoding lightmaps, 569 ms encoding shadowmaps)
+[2019.02.04-16.06.27:838][109]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.02.04-16.06.27:838][109]LogStaticLightingSystem: Shadowmap texture memory: 12.0 MB (12.0 MB streaming, 0.0 MB non-streaming), 7 textures
+[2019.02.04-16.06.28:325][109]DumpUnbuiltLightIteractions
+[2019.02.04-16.06.28:325][109]Lights with unbuilt interactions: 0
+[2019.02.04-16.06.28:325][109]
+[2019.02.04-16.06.28:325][109]Primitives with unbuilt interactions: 0
+[2019.02.04-16.06.28:444][110]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.04-16.06.28:444][110]MapCheck: New page: FirstPersonExampleMap - 4 févr. 2019 18:06:28
+[2019.02.04-16.06.28:653][110]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 209,065ms to complete.
