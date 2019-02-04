@@ -1,0 +1,943 @@
+﻿Log file open, 02/04/19 11:41:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJameuh3d
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277206
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.192s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Foxclaw -epicuserid=c7f73844a034451e8ecb2de407409fc3 -epiclocale=fr-FR
+LogInit: Base Directory: D:/UE4/UE4engine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:527][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:530][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-10.41.10:530][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-10.41.10:531][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-10.41.10:531][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-10.41.10:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.04-10.41.10:691][  0]LogHAL: Display: Platform has ~ 8 GB [8544559104 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.04-10.41.10:691][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.04-10.41.10:691][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-10.41.10:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-10.41.10:692][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.04-10.41.10:693][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.04-10.41.10:693][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
+[2019.02.04-10.41.10:693][  0]LogInit: Computer: TITATRIX
+[2019.02.04-10.41.10:693][  0]LogInit: User: TitatriX
+[2019.02.04-10.41.10:693][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.04-10.41.10:693][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.04-10.41.10:693][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.02.04-10.41.10:693][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.04-10.41.10:693][  0]LogMemory: Process Physical Memory: 103.01 MB used, 103.01 MB peak
+[2019.02.04-10.41.10:693][  0]LogMemory: Process Virtual Memory: 89.70 MB used, 89.70 MB peak
+[2019.02.04-10.41.10:693][  0]LogMemory: Physical Memory: 3968.27 MB used,  4180.45 MB free, 8148.73 MB total
+[2019.02.04-10.41.10:693][  0]LogMemory: Virtual Memory: 4649.41 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.04-10.41.10:713][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.04-10.41.10:713][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.04-10.41.10:715][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.04-10.41.10:718][  0]LogStreaming: Display: Took  0.005s to InitEngineTextLocalization.
+[2019.02.04-10.41.10:718][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.04-10.41.10:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.04-10.41.10:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.04-10.41.11:136][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-10.41.11:136][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.04-10.41.11:201][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.04-10.41.11:201][  0]LogD3D11RHI:       8081/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.04-10.41.11:204][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.04-10.41.11:204][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.04-10.41.11:204][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.04-10.41.11:211][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.04-10.41.11:211][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.04-10.41.11:211][  0]LogWindows: EnumDisplayDevices:
+[2019.02.04-10.41.11:211][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.02.04-10.41.11:211][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-10.41.11:211][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-10.41.11:212][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-10.41.11:212][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.04-10.41.11:212][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.04-10.41.11:212][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.02.04-10.41.11:212][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.02.04-10.41.11:212][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.02.04-10.41.11:261][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.04-10.41.11:292][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.04-10.41.11:733][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.04-10.41.11:746][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.04-10.41.11:759][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.04-10.41.11:773][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.04-10.41.11:786][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.04-10.41.11:800][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.04-10.41.11:815][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.04-10.41.11:829][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.04-10.41.11:836][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-10.41.11:924][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.04-10.41.11:986][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-10.41.11:986][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-10.41.12:011][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-10.41.12:011][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-10.41.12:023][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.04-10.41.12:036][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.04-10.41.12:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.04-10.41.12:063][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.04-10.41.12:111][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-10.41.12:111][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-10.41.12:111][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.04-10.41.12:181][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../GameJameuh3D/GameJameuh3d/Intermediate/Shaders/WorkingDirectory/4012/).
+[2019.02.04-10.41.12:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/F0xcl/AppData/Local/Temp/UnrealShaderWorkingDir/ECCFA61E49E9B6E81523719D093F6DCB/'.
+[2019.02.04-10.41.12:182][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.04-10.41.12:183][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.04-10.41.12:183][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.04-10.41.12:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GameJameuh3D/GameJameuh3d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GameJameuh3D/GameJameuh3d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-10.41.12:795][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.04-10.41.12:808][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.04-10.41.12:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-10.41.12:808][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.04-10.41.12:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/F0xcl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.04-10.41.12:822][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.04-10.41.12:822][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.04-10.41.12:845][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.04-10.41.12:847][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.04-10.41.12:848][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.04-10.41.12:951][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2019.02.04-10.41.13:310][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-10.41.13:477][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.04-10.41.13:481][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.04-10.41.13:481][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.04-10.41.13:481][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.04-10.41.13:481][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.04-10.41.13:497][  0]LogNetVersion: GameJameuh3d 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1734694019)
+[2019.02.04-10.41.14:283][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.177168 seconds
+[2019.02.04-10.41.14:290][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.04-10.41.14:290][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.04-10.41.14:290][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.04-10.41.15:401][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.04-10.41.15:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.04-10.41.17:352][  0]SourceControl: Source control is disabled
+[2019.02.04-10.41.17:352][  0]SourceControl: Source control is disabled
+[2019.02.04-10.41.17:353][  0]SourceControl: Source control is disabled
+[2019.02.04-10.41.17:354][  0]SourceControl: Source control is disabled
+[2019.02.04-10.41.17:655][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.04-10.41.17:749][  0]LogOcInput: OculusInput pre-init called
+[2019.02.04-10.41.17:888][  0]LogEngine: Initializing Engine...
+[2019.02.04-10.41.17:889][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-10.41.17:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-10.41.17:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-10.41.17:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-10.41.17:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-10.41.18:158][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.04-10.41.18:172][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.04-10.41.18:192][  0]LogInit: XAudio2 using 'Casque (TX42BD100)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.02.04-10.41.18:261][  0]LogInit: FAudioDevice initialized.
+[2019.02.04-10.41.18:261][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.04-10.41.18:413][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-10.41.18:420][  0]LogInit: Texture streaming: Enabled
+[2019.02.04-10.41.18:442][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.04-10.41.18:454][  0]LogInit: Transaction tracking system initialized
+[2019.02.04-10.41.18:477][  0]BlueprintLog: New page: Editor Load
+[2019.02.04-10.41.18:737][  0]LocalizationService: Localization service is disabled
+[2019.02.04-10.41.19:385][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/' took 0.01s
+[2019.02.04-10.41.19:385][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.04-10.41.19:385][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.04-10.41.19:385][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.04-10.41.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-10.41.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-10.41.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-10.41.19:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-10.41.19:546][  0]SourceControl: Source control is disabled
+[2019.02.04-10.41.19:687][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UE4/UE4engine/UE_4.21/FeaturePacks/StarterContent.upack)
+[2019.02.04-10.41.19:841][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.02.04-10.41.20:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.02.04-10.41.20:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.02.04-10.41.20:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.02.04-10.41.20:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.02.04-10.41.20:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.02.04-10.41.20:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.02.04-10.41.21:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.02.04-10.41.21:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.02.04-10.41.21:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.02.04-10.41.21:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.02.04-10.41.21:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.02.04-10.41.21:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.02.04-10.41.22:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.02.04-10.41.22:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.02.04-10.41.22:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.02.04-10.41.22:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.02.04-10.41.22:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.02.04-10.41.22:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Fire01.uasset"
+[2019.02.04-10.41.23:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.02.04-10.41.23:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.02.04-10.41.23:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.02.04-10.41.23:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Light01.uasset"
+[2019.02.04-10.41.23:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.02.04-10.41.23:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Light02.uasset"
+[2019.02.04-10.41.23:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.02.04-10.41.23:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.02.04-10.41.23:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.02.04-10.41.23:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.02.04-10.41.23:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.02.04-10.41.23:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.02.04-10.41.23:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.02.04-10.41.24:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.02.04-10.41.24:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.02.04-10.41.24:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Steam01.uasset"
+[2019.02.04-10.41.24:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.02.04-10.41.24:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.02.04-10.41.24:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.02.04-10.41.24:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.02.04-10.41.24:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.02.04-10.41.24:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.02.04-10.41.24:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.02.04-10.41.24:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.02.04-10.41.24:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.02.04-10.41.24:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.02.04-10.41.24:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.02.04-10.41.24:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.02.04-10.41.24:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.02.04-10.41.24:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.02.04-10.41.25:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.02.04-10.41.25:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.02.04-10.41.25:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.02.04-10.41.26:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.02.04-10.41.27:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.02.04-10.41.27:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.02.04-10.41.27:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.02.04-10.41.27:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.02.04-10.41.27:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/StarterMap.umap"
+[2019.02.04-10.41.28:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.02.04-10.41.28:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.02.04-10.41.28:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.02.04-10.41.28:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.02.04-10.41.28:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.02.04-10.41.28:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.02.04-10.41.28:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.02.04-10.41.28:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.02.04-10.41.28:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.02.04-10.41.28:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.02.04-10.41.28:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.02.04-10.41.28:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.02.04-10.41.28:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.02.04-10.41.28:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.02.04-10.41.29:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.02.04-10.41.29:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.02.04-10.41.29:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.02.04-10.41.29:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.02.04-10.41.29:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.02.04-10.41.29:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.02.04-10.41.29:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.02.04-10.41.30:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.02.04-10.41.30:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.02.04-10.41.30:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.02.04-10.41.30:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.02.04-10.41.30:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.02.04-10.41.30:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.02.04-10.41.30:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.02.04-10.41.30:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.02.04-10.41.30:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.02.04-10.41.31:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.02.04-10.41.31:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.02.04-10.41.31:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.02.04-10.41.31:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.02.04-10.41.31:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.02.04-10.41.31:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.02.04-10.41.31:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.02.04-10.41.31:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.02.04-10.41.31:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.02.04-10.41.31:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.02.04-10.41.31:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.02.04-10.41.32:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.02.04-10.41.32:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.02.04-10.41.32:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.02.04-10.41.32:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.02.04-10.41.32:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.02.04-10.41.32:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.02.04-10.41.32:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.02.04-10.41.32:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.02.04-10.41.32:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.02.04-10.41.32:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.02.04-10.41.32:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.02.04-10.41.32:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.02.04-10.41.32:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.02.04-10.41.32:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.02.04-10.41.32:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.02.04-10.41.32:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.02.04-10.41.32:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.02.04-10.41.32:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.02.04-10.41.33:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.02.04-10.41.33:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.02.04-10.41.33:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.02.04-10.41.33:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.02.04-10.41.33:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.02.04-10.41.33:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.02.04-10.41.33:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Door.uasset"
+[2019.02.04-10.41.33:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.02.04-10.41.33:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.02.04-10.41.33:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.02.04-10.41.33:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.02.04-10.41.33:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.02.04-10.41.34:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.02.04-10.41.34:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.02.04-10.41.34:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.02.04-10.41.34:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.02.04-10.41.34:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.02.04-10.41.34:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.02.04-10.41.34:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.02.04-10.41.34:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.02.04-10.41.34:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.02.04-10.41.34:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.02.04-10.41.34:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.02.04-10.41.34:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.02.04-10.41.34:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.02.04-10.41.34:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.02.04-10.41.34:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.02.04-10.41.34:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.02.04-10.41.34:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.02.04-10.41.34:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.02.04-10.41.34:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.02.04-10.41.34:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.02.04-10.41.34:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.02.04-10.41.34:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.02.04-10.41.34:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.02.04-10.41.34:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.02.04-10.41.34:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.02.04-10.41.34:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.02.04-10.41.34:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.02.04-10.41.34:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.02.04-10.41.34:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.02.04-10.41.34:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.02.04-10.41.35:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.02.04-10.41.35:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.02.04-10.41.35:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.02.04-10.41.35:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.02.04-10.41.35:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.02.04-10.41.35:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.02.04-10.41.35:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.02.04-10.41.35:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.02.04-10.41.35:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.02.04-10.41.35:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.02.04-10.41.36:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.02.04-10.41.36:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.02.04-10.41.36:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.02.04-10.41.36:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.02.04-10.41.37:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.02.04-10.41.37:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.02.04-10.41.37:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.02.04-10.41.38:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.02.04-10.41.38:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.02.04-10.41.39:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.02.04-10.41.39:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.02.04-10.41.40:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.02.04-10.41.40:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.02.04-10.41.40:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.02.04-10.41.40:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.02.04-10.41.40:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.02.04-10.41.40:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.02.04-10.41.40:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.02.04-10.41.40:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.02.04-10.41.40:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.02.04-10.41.41:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.02.04-10.41.42:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.02.04-10.41.44:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.02.04-10.41.44:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.02.04-10.41.44:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.02.04-10.41.45:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.02.04-10.41.45:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.02.04-10.41.46:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.02.04-10.41.46:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.02.04-10.41.47:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.02.04-10.41.48:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.02.04-10.41.48:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.02.04-10.41.49:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.02.04-10.41.49:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.02.04-10.41.49:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.02.04-10.41.50:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.02.04-10.41.50:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.02.04-10.41.51:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.02.04-10.41.51:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.02.04-10.41.51:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.02.04-10.41.51:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.02.04-10.41.52:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.02.04-10.41.52:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.02.04-10.41.52:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.02.04-10.41.52:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.02.04-10.41.52:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.02.04-10.41.52:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.02.04-10.41.53:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.02.04-10.41.53:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.02.04-10.41.54:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.02.04-10.41.55:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.02.04-10.41.55:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.02.04-10.41.56:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.02.04-10.41.56:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.02.04-10.41.56:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.02.04-10.41.56:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.02.04-10.41.56:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.02.04-10.41.57:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.02.04-10.41.57:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.02.04-10.41.57:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.02.04-10.41.58:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.02.04-10.41.59:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.02.04-10.41.59:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.02.04-10.41.59:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.02.04-10.42.00:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.02.04-10.42.00:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.02.04-10.42.00:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.02.04-10.42.01:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.02.04-10.42.02:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.02.04-10.42.02:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.02.04-10.42.03:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.02.04-10.42.03:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.02.04-10.42.03:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.02.04-10.42.04:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.02.04-10.42.04:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.02.04-10.42.04:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.02.04-10.42.05:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.02.04-10.42.05:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.02.04-10.42.05:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.02.04-10.42.05:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.02.04-10.42.06:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.02.04-10.42.06:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.02.04-10.42.06:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.02.04-10.42.06:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.02.04-10.42.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.02.04-10.42.07:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.02.04-10.42.07:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.02.04-10.42.07:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.02.04-10.42.07:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.02.04-10.42.07:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.02.04-10.42.07:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.02.04-10.42.07:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.02.04-10.42.07:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.02.04-10.42.07:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.02.04-10.42.08:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.02.04-10.42.08:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.02.04-10.42.09:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.02.04-10.42.09:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.02.04-10.42.10:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.02.04-10.42.10:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.02.04-10.42.10:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.02.04-10.42.11:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.02.04-10.42.11:446][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.02.04-10.42.11:655][  0]LogStaticMesh: Built static mesh [0.21s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.02.04-10.42.12:550][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.02.04-10.42.13:149][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.02.04-10.42.13:679][  0]LogSavePackage: Moving '../../../../../../GameJameuh3D/GameJameuh3d/Saved/Floor_400x400FD71F5904C13BA145DECC4B7081A2F5F.tmp' to '../../../../../../GameJameuh3D/GameJameuh3d/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.02.04-10.42.13:731][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.02.04-10.42.13:733][  0]Cmd: MAP LOAD FILE="../../../../../../GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-10.42.13:734][  0]LightingResults: New page: Lighting Build
+[2019.02.04-10.42.13:736][  0]MapCheck: New page: Map Check
+[2019.02.04-10.42.13:736][  0]LightingResults: New page: Lighting Build
+[2019.02.04-10.42.15:962][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.02.04-10.42.15:963][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.02.04-10.42.15:963][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.02.04-10.42.15:963][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.02.04-10.42.15:963][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.02.04-10.42.15:963][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.02.04-10.42.16:510][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.02.04-10.42.16:510][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.02.04-10.42.16:510][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2019.02.04-10.42.17:754][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2019.02.04-10.42.18:277][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.04-10.42.18:962][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-10.42.18:990][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-10.42.18:991][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,331ms to complete.
+[2019.02.04-10.42.18:991][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.258
+[2019.02.04-10.42.21:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.42.21:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.42.21:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.42.21:208][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.42.21:822][  0]LogCollectionManager: Loaded 0 collections in 0.001056 seconds
+[2019.02.04-10.42.22:639][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Saved/Collections/' took 0.01s
+[2019.02.04-10.42.22:639][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/Developers/TitatriX/Collections/' took 0.01s
+[2019.02.04-10.42.22:639][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/Collections/' took 0.01s
+[2019.02.04-10.42.22:639][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.04-10.42.23:101][  0]LogContentBrowser: Native class hierarchy populated in 0.1594 seconds. Added 2651 classes and 620 folders.
+[2019.02.04-10.42.23:324][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.04-10.42.23:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-10.42.23:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.02.04-10.42.23:737][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.02.04-10.42.25:263][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.04-10.42.25:266][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.04-10.42.25:505][  0]LogSlate: Took 0.044343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.04-10.42.26:278][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.04-10.42.26:643][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-10.42.26:976][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-10.42.27:364][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.02.04-10.42.27:402][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.04-10.42.27:402][  0]LogLoad: (Engine Initialization) Total time: 79.43 seconds
+[2019.02.04-10.42.27:403][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.04-10.42.27:784][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.04-10.42.30:050][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-10.42.30:133][102]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-10.42.30:191][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.42.30:191][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-10.42.30:261][102]PIE: New page: PIE session: FirstPersonExampleMap (4 févr. 2019 12:42:30)
+[2019.02.04-10.42.30:342][102]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.02.04-10.42.30:369][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027087s)
+[2019.02.04-10.42.30:369][102]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.04-10.42.30:370][102]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2019.02.04-10.42.30:370][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028971s)
+[2019.02.04-10.42.30:520][102]LogInit: XAudio2 using 'Casque (TX42BD100)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.02.04-10.42.30:535][102]LogInit: FAudioDevice initialized.
+[2019.02.04-10.42.30:764][102]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.04-10.42.30:837][102]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.02.04-11.42.30
+[2019.02.04-10.42.30:871][102]LogWorld: Bringing up level for play took: 0.097945
+[2019.02.04-10.42.31:256][102]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.04-10.42.31:257][102]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,177
+[2019.02.04-10.42.31:257][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.42.34:834][275]LogAssetRegistry: Asset discovery search completed in 81.9056 seconds
+[2019.02.04-10.42.34:836][275]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.04-10.42.34:836][275]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2019.02.04-10.43.02:580][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1247.830 Y=-496.740 Z=250.580] for [FirstPersonProjectile_C]
+[2019.02.04-10.43.03:047][950]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1249.295 Y=-496.800 Z=258.527] for [FirstPersonProjectile_C]
+[2019.02.04-10.43.03:481][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1249.275 Y=-496.776 Z=258.514] for [FirstPersonProjectile_C]
+[2019.02.04-10.43.04:098][ 13]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1249.374 Y=-496.902 Z=258.569] for [FirstPersonProjectile_C]
+[2019.02.04-10.43.04:614][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1251.117 Y=-498.538 Z=258.006] for [FirstPersonProjectile_C]
+[2019.02.04-10.43.15:449][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.43.15:449][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.43.15:485][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-10.43.15:485][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.43.15:511][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-10.43.15:577][696]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.02.04-10.43.18:613][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-10.43.22:253][ 90]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-10.43.22:261][ 90]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.02.04-10.43.23:218][ 90]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.02.04-10.43.46:923][364]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.02.04-10.43.47:067][364]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.02.04-10.43.47:718][364]LogSlate: Took 0.035162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.04-10.44.03:803][285]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:74).
+[2019.02.04-10.44.05:864][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-10.44.10:171][662]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.02.04-10.44.10:177][662]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.02.04-10.44.44:570][722]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.02.04-10.44.56:264][401]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.02.04-10.44.56:270][401]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.02.04-10.46.02:507][854]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.02.04-10.46.09:561][195]LogSlate: Took 0.119319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.04-10.46.49:982][463]LogSlate: Window 'FirstPersonGameMode*' being destroyed
+[2019.02.04-10.46.49:988][463]LogSlate: Window 'FirstPersonGameMode*' being destroyed
+[2019.02.04-10.46.51:135][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.02.04-10.46.52:811][519]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall1)
+[2019.02.04-10.46.53:124][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-10.46.55:585][615]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-10.46.55:655][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.46.55:655][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-10.46.55:655][615]PIE: New page: PIE session: FirstPersonExampleMap (4 févr. 2019 12:46:55)
+[2019.02.04-10.46.55:655][615]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.02.04-10.46.55:674][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018521s)
+[2019.02.04-10.46.55:675][615]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.04-10.46.55:675][615]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.02.04-10.46.55:675][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019810s)
+[2019.02.04-10.46.55:753][615]LogInit: XAudio2 using 'Casque (TX42BD100)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.02.04-10.46.55:771][615]LogInit: FAudioDevice initialized.
+[2019.02.04-10.46.55:823][615]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.04-10.46.55:826][615]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.02.04-11.46.55
+[2019.02.04-10.46.55:826][615]LogWorld: Bringing up level for play took: 0.002054
+[2019.02.04-10.46.55:839][615]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,24
+[2019.02.04-10.46.55:839][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.04-10.47.03:275][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1006.589 Y=-1760.829 Z=280.787] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.03:524][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=902.084 Y=-1698.443 Z=289.799] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.05:251][164]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=668.274 Y=-1750.222 Z=252.437] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.05:618][186]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=679.231 Y=-1740.102 Z=271.724] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.05:783][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=676.427 Y=-1740.763 Z=272.805] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.05:952][206]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=674.487 Y=-1746.716 Z=271.887] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.06:117][216]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=673.907 Y=-1749.242 Z=272.432] for [FirstPersonProjectile_C]
+[2019.02.04-10.47.06:285][226]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=673.907 Y=-1749.242 Z=272.432] for [FirstPersonProjectile_C]
