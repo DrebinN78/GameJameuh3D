@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿Log file open, 02/04/19 16:17:10
-=======
-﻿Log file open, 02/04/19 15:46:21
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
+﻿Log file open, 02/04/19 17:24:23
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,16 +6,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
-LogInit: Display: Running engine for game: GameJameuh3d
+LogInit: Display: Running engine for game: Gamejameuh3D
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
-<<<<<<< HEAD
-LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.449122
-=======
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 1.971775
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
+LogStats: Stats thread started at 0.305284
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -103,11 +94,7 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-<<<<<<< HEAD
-LogStreaming: Display: Took  0.280s to configure plugins.
-=======
-LogStreaming: Display: Took  0.352s to configure plugins.
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
+LogStreaming: Display: Took  0.254s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -131,22 +118,13 @@ LogInit: Build: ++UE4+Release-4.21-CL-4753647
 LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
 LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
 LogInit: Net CL: 4541578
-<<<<<<< HEAD
-LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz, GPU: Intel(R) HD Graphics Family
-=======
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
 LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.21
-<<<<<<< HEAD
-LogInit: Command Line:  /Game/FirstPersonBP/Maps/FirstPersonExampleMap -game -PIEVIACONSOLE -ResX=854 -ResY=480 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
-=======
-LogInit: Command Line: 
+LogInit: Command Line:  -EpicPortal -epicusername=Foxclaw -epicuserid=c7f73844a034451e8ecb2de407409fc3 -epiclocale=fr-FR
 LogInit: Base Directory: D:/UE4/UE4engine/UE_4.21/Engine/Binaries/Win64/
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 22
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -171,751 +149,632 @@ LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
 LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
-LogStreaming: Display: Took  0.010s to delete old logs.
+LogStreaming: Display: Took  0.007s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-<<<<<<< HEAD
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.02.04-15.17.11:722][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.02.04-15.17.11:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:723][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:727][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.02.04-15.17.11:727][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.02.04-15.17.11:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.02.04-15.17.11:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.02.04-15.17.11:730][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.02.04-15.17.11:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.02.04-15.17.11:731][  0]LogInit: Selected Device Profile: [Windows]
-[2019.02.04-15.17.11:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.02.04-15.17.11:850][  0]LogHAL: Display: Platform has ~ 8 GB [8483581952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.02.04-15.17.11:851][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.02.04-15.17.11:851][  0]LogInit: Going up to parent DeviceProfile []
-[2019.02.04-15.17.11:852][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.02.04-15.17.11:852][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.02.04-15.17.11:853][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.02.04-15.17.11:853][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.02.04-15.17.11:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.02.04-15.17.11:855][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.02.04-15.17.11:856][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.02.04-15.17.11:857][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.02.04-15.17.11:858][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.02.04-15.17.11:858][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-15.17.11:858][  0]LogInit: Computer: GUSTAVE-ANATOLE
-[2019.02.04-15.17.11:858][  0]LogInit: User: Matilde
-[2019.02.04-15.17.11:858][  0]LogInit: CPU Page size=4096, Cores=2
-[2019.02.04-15.17.11:858][  0]LogInit: High frequency timer resolution =1.753755 MHz
-[2019.02.04-15.17.11:859][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2019.02.04-15.17.11:859][  0]LogMemory: Platform Memory Stats for Windows
-[2019.02.04-15.17.11:859][  0]LogMemory: Process Physical Memory: 99.78 MB used, 99.78 MB peak
-[2019.02.04-15.17.11:859][  0]LogMemory: Process Virtual Memory: 90.86 MB used, 90.86 MB peak
-[2019.02.04-15.17.11:859][  0]LogMemory: Physical Memory: 3999.34 MB used,  4091.24 MB free, 8090.57 MB total
-[2019.02.04-15.17.11:859][  0]LogMemory: Virtual Memory: 481.61 MB used,  134217248.00 MB free, 134217728.00 MB total
-[2019.02.04-15.17.12:080][  0]LogInit: Using OS detected language (fr-FR).
-[2019.02.04-15.17.12:080][  0]LogInit: Using OS detected locale (fr-FR).
-[2019.02.04-15.17.12:084][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
-[2019.02.04-15.17.12:179][  0]LogStreaming: Display: Took  0.098s to InitEngineTextLocalization.
-[2019.02.04-15.17.12:265][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.02.04-15.17.12:265][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.02.04-15.17.12:268][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.02.04-15.17.12:268][  0]LogD3D11RHI: D3D11 adapters:
-[2019.02.04-15.17.12:323][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
-[2019.02.04-15.17.12:323][  0]LogD3D11RHI:       128/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2019.02.04-15.17.12:337][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 750M   ' (Feature Level 11_0)
-[2019.02.04-15.17.12:337][  0]LogD3D11RHI:       1988/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
-[2019.02.04-15.17.12:339][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.02.04-15.17.12:339][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.02.04-15.17.12:339][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
-[2019.02.04-15.17.12:348][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.02.04-15.17.12:348][  0]LogD3D11RHI:     GPU DeviceId: 0xfe4 (for the marketing name, search the web for "GPU Device Id")
-[2019.02.04-15.17.12:348][  0]LogWindows: EnumDisplayDevices:
-[2019.02.04-15.17.12:349][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
-[2019.02.04-15.17.12:349][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
-[2019.02.04-15.17.12:349][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
-[2019.02.04-15.17.12:350][  0]LogWindows:    3. 'NVIDIA GeForce GT 750M   ' (P:0 D:0)
-[2019.02.04-15.17.12:350][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.02.04-15.17.12:350][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 750M   
-[2019.02.04-15.17.12:350][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.02.04-15.17.12:350][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.02.04-15.17.12:350][  0]LogRHI: Texture pool is 1392 MB (70% of 1988 MB)
-[2019.02.04-15.17.12:358][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
-[2019.02.04-15.17.12:358][  0]LogD3D11RHI: Async texture creation enabled
-[2019.02.04-15.17.12:373][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.02.04-15.17.12:805][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.02.04-15.17.12:846][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.02.04-15.17.12:893][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.02.04-15.17.12:946][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.02.04-15.17.12:946][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.02.04-15.17.13:403][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Intermediate/Shaders/WorkingDirectory/7760/).
-[2019.02.04-15.17.13:403][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matilde/AppData/Local/Temp/UnrealShaderWorkingDir/A643E86A47F6E5E8274B7096717F47DB/'.
-[2019.02.04-15.17.13:418][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.02.04-15.17.13:418][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.02.04-15.17.13:418][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.02.04-15.17.19:324][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Matilde/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matilde/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.02.04-15.17.19:398][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.02.04-15.17.19:418][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.02.04-15.17.19:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.02.04-15.17.19:418][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.02.04-15.17.19:430][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matilde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.02.04-15.17.19:430][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.02.04-15.17.19:430][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.02.04-15.17.19:459][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.02.04-15.17.19:460][  0]LogSlate: Using FreeType 2.6.0
-[2019.02.04-15.17.19:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.02.04-15.17.19:860][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.02.04-15.17.19:860][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.02.04-15.17.19:987][  0]LogInit: Using OS detected language (fr-FR).
-[2019.02.04-15.17.19:987][  0]LogInit: Using OS detected locale (fr-FR).
-[2019.02.04-15.17.19:987][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
-[2019.02.04-15.17.19:987][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
-[2019.02.04-15.17.19:987][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2019.02.04-15.17.19:987][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2019.02.04-15.17.20:514][  0]LogStreaming: Display: Took  0.528s to InitGameTextLocalization.
-[2019.02.04-15.17.20:533][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
-[2019.02.04-15.17.20:775][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.018646 seconds
-[2019.02.04-15.17.20:898][  0]LogInit: Selected Device Profile: [Windows]
-[2019.02.04-15.17.21:234][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.02.04-15.17.21:272][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.02.04-15.17.21:272][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.02.04-15.17.21:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.02.04-15.17.21:272][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.02.04-15.17.21:297][  0]LogNetVersion: GameJameuh3d 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1734694019)
-[2019.02.04-15.17.27:517][  0]LogMoviePlayer: Initializing movie player
-[2019.02.04-15.17.27:955][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.02.04-15.17.27:986][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.02.04-15.17.28:208][  0]SourceControl: Source control is disabled
-[2019.02.04-15.17.28:208][  0]SourceControl: Source control is disabled
-[2019.02.04-15.17.28:227][  0]SourceControl: Source control is disabled
-[2019.02.04-15.17.28:707][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.02.04-15.17.28:867][  0]LogOcInput: OculusInput pre-init called
-[2019.02.04-15.17.28:914][  0]LogUObjectArray: 43226 objects as part of root set at end of initial load.
-[2019.02.04-15.17.28:914][  0]LogUObjectAllocator: 7590216 out of 0 bytes used by permanent object pool.
-[2019.02.04-15.17.28:914][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.02.04-15.17.29:262][  0]LogEngine: Initializing Engine...
-[2019.02.04-15.17.29:263][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.02.04-15.17.29:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.02.04-15.17.29:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.02.04-15.17.29:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.02.04-15.17.29:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.02.04-15.17.29:495][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.02.04-15.17.29:499][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.02.04-15.17.29:524][  0]LogInit: FAudioDevice initialized.
-[2019.02.04-15.17.29:540][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.02.04-15.17.29:545][  0]LogInit: Texture streaming: Enabled
-[2019.02.04-15.17.29:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.02.04-15.17.29:871][  0]LogInit: Display: Game Engine Initialized.
-[2019.02.04-15.17.29:871][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.02.04-15.17.29:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.02.04-15.17.29:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.02.04-15.17.29:872][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.02.04-15.17.29:872][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.02.04-15.17.29:992][  0]LogInit: Display: Starting Game.
-[2019.02.04-15.17.29:993][  0]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=Player
-[2019.02.04-15.17.29:993][  0]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=Player
-[2019.02.04-15.17.30:469][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2019.02.04-15.17.30:470][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2019.02.04-15.17.30:494][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.02.04-16.17.30
-[2019.02.04-15.17.30:495][  0]LogWorld: Bringing up level for play took: 0.023963
-[2019.02.04-15.17.30:500][  0]LogLoad: Took 0.507192 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
-[2019.02.04-15.17.30:616][  0]LogRenderer: Reallocating scene render targets to support 856x480 Format 10 NumSamples 1 (Frame:1).
-[2019.02.04-15.17.30:616][  0]LogLoad: (Engine Initialization) Total time: 26.89 seconds
-[2019.02.04-15.17.30:616][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.02.04-15.17.30:712][  0]LogContentStreaming: Texture pool size now 1000 MB
-=======
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.02.04-14.46.23:461][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.02.04-14.46.23:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:462][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.02.04-14.46.23:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.02.04-14.46.23:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.02.04-14.46.23:467][  0]LogInit: Selected Device Profile: [Windows]
-[2019.02.04-14.46.23:472][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.02.04-14.46.23:562][  0]LogHAL: Display: Platform has ~ 8 GB [8544559104 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.02.04-14.46.23:562][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.02.04-14.46.23:562][  0]LogInit: Going up to parent DeviceProfile []
-[2019.02.04-14.46.23:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.02.04-14.46.23:576][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Scalability.ini]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.02.04-14.46.23:577][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.02.04-14.46.23:635][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.02.04-14.46.23:635][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJameuh3D/GameJameuh3d/Saved/Config/Windows/Engine.ini]
-[2019.02.04-14.46.23:654][  0]LogInit: Computer: TITATRIX
-[2019.02.04-14.46.23:654][  0]LogInit: User: TitatriX
-[2019.02.04-14.46.23:654][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.02.04-14.46.23:654][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.02.04-14.46.23:654][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2019.02.04-14.46.23:654][  0]LogMemory: Platform Memory Stats for Windows
-[2019.02.04-14.46.23:654][  0]LogMemory: Process Physical Memory: 103.72 MB used, 103.73 MB peak
-[2019.02.04-14.46.23:654][  0]LogMemory: Process Virtual Memory: 89.71 MB used, 89.71 MB peak
-[2019.02.04-14.46.23:654][  0]LogMemory: Physical Memory: 5627.61 MB used,  2521.11 MB free, 8148.73 MB total
-[2019.02.04-14.46.23:654][  0]LogMemory: Virtual Memory: 4648.41 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.02.04-14.46.24:217][  0]LogInit: Using OS detected language (fr-FR).
-[2019.02.04-14.46.24:217][  0]LogInit: Using OS detected locale (fr-FR).
-[2019.02.04-14.46.24:287][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
-[2019.02.04-14.46.24:472][  0]LogStreaming: Display: Took  0.256s to InitEngineTextLocalization.
-[2019.02.04-14.46.24:472][  0]LogInit: Setting process to per monitor DPI aware
-[2019.02.04-14.46.25:076][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.02.04-14.46.25:076][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.02.04-14.46.26:657][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.02.04-14.46.26:657][  0]LogD3D11RHI: D3D11 adapters:
-[2019.02.04-14.46.26:868][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2019.02.04-14.46.26:868][  0]LogD3D11RHI:       8081/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.02.04-14.46.26:877][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.02.04-14.46.26:877][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.02.04-14.46.26:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.02.04-14.46.26:887][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.02.04-14.46.26:887][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
-[2019.02.04-14.46.26:887][  0]LogWindows: EnumDisplayDevices:
-[2019.02.04-14.46.26:887][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2019.02.04-14.46.26:888][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.02.04-14.46.26:888][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.02.04-14.46.26:888][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.02.04-14.46.26:888][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.02.04-14.46.26:888][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2019.02.04-14.46.26:888][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
-[2019.02.04-14.46.26:888][  0]LogD3D11RHI:      Driver Date: 12-11-2018
-[2019.02.04-14.46.26:888][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
-[2019.02.04-14.46.26:956][  0]LogD3D11RHI: Async texture creation enabled
-[2019.02.04-14.46.27:062][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.02.04-14.46.29:454][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2019.02.04-14.46.29:499][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2019.02.04-14.46.29:534][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2019.02.04-14.46.29:566][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2019.02.04-14.46.29:617][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2019.02.04-14.46.29:656][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.02.04-14.46.29:682][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.02.04-14.46.29:704][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.02.04-14.46.29:722][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.02.04-14.46.29:886][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2019.02.04-14.46.30:002][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.02.04-14.46.30:002][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.02.04-14.46.30:036][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.02.04-14.46.30:036][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.02.04-14.46.30:069][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2019.02.04-14.46.30:101][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2019.02.04-14.46.30:126][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2019.02.04-14.46.30:215][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2019.02.04-14.46.30:292][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.02.04-14.46.30:292][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.02.04-14.46.30:292][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.02.04-14.46.31:127][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../GameJameuh3D/GameJameuh3d/Intermediate/Shaders/WorkingDirectory/16568/).
-[2019.02.04-14.46.31:127][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/F0xcl/AppData/Local/Temp/UnrealShaderWorkingDir/0E5145454DFFF1FE43E8FDB9B4CE98E5/'.
-[2019.02.04-14.46.31:151][  0]LogXGEController: Cleaning working directory: C:/Users/F0xcl/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2019.02.04-14.46.31:151][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.02.04-14.46.31:151][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.02.04-14.46.31:151][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.02.04-14.46.33:131][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.02.04-14.46.33:352][  0]LogDerivedDataCache: Loaded boot cache 0.22s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.02.04-14.46.33:352][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
-[2019.02.04-14.46.33:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GameJameuh3D/GameJameuh3d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.02.04-14.46.33:353][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.02.04-14.46.33:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GameJameuh3D/GameJameuh3d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.02.04-14.46.33:353][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.02.04-14.46.33:449][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.02.04-14.46.33:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.02.04-14.46.33:449][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.02.04-14.46.33:462][  0]LogDerivedDataCache: Using Local data cache path C:/Users/F0xcl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.02.04-14.46.33:462][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.02.04-14.46.33:462][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.02.04-14.46.33:487][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.02.04-14.46.33:489][  0]LogSlate: Using FreeType 2.6.0
-[2019.02.04-14.46.33:572][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.02.04-14.46.35:222][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
-[2019.02.04-14.46.37:922][  0]LogInit: Selected Device Profile: [Windows]
-[2019.02.04-14.46.39:306][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.02.04-14.46.39:432][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.02.04-14.46.39:432][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.02.04-14.46.39:432][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.02.04-14.46.39:432][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.02.04-14.46.39:616][  0]LogNetVersion: GameJameuh3d 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1734694019)
-[2019.02.04-14.46.42:931][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.114306 seconds
-[2019.02.04-14.46.42:938][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
-[2019.02.04-14.46.42:938][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
-[2019.02.04-14.46.42:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.02.04-14.47.14:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.02.04-14.47.14:515][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.02.04-14.47.16:452][  0]SourceControl: Source control is disabled
-[2019.02.04-14.47.16:452][  0]SourceControl: Source control is disabled
-[2019.02.04-14.47.16:502][  0]SourceControl: Source control is disabled
-[2019.02.04-14.47.16:518][  0]SourceControl: Source control is disabled
-[2019.02.04-14.47.17:571][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.02.04-14.47.17:787][  0]LogOcInput: OculusInput pre-init called
-[2019.02.04-14.47.18:657][  0]LogEngine: Initializing Engine...
-[2019.02.04-14.47.18:658][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.02.04-14.47.18:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.02.04-14.47.18:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.02.04-14.47.18:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
-[2019.02.04-14.47.18:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.02.04-14.47.19:414][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.02.04-14.47.19:554][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.02.04-14.47.19:589][  0]LogInit: XAudio2 using 'Casque (TX42BD100)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
-[2019.02.04-14.47.19:613][  0]LogInit: FAudioDevice initialized.
-[2019.02.04-14.47.19:614][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.02.04-14.47.19:706][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.02.04-14.47.19:707][  0]LogInit: Texture streaming: Enabled
-[2019.02.04-14.47.19:845][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.02.04-14.47.19:938][  0]LogInit: Transaction tracking system initialized
-[2019.02.04-14.47.20:287][  0]BlueprintLog: New page: Editor Load
-[2019.02.04-14.47.21:208][  0]LocalizationService: Localization service is disabled
-[2019.02.04-14.47.23:851][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/' took 0.02s
-[2019.02.04-14.47.23:851][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.02.04-14.47.23:851][  0]LogCook: Display: Mobile HDR setting 1
-[2019.02.04-14.47.23:851][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.02.04-14.47.23:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.02.04-14.47.23:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.02.04-14.47.23:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.02.04-14.47.23:852][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.02.04-14.47.25:982][  0]SourceControl: Source control is disabled
-[2019.02.04-14.47.25:982][  0]Cmd: MAP LOAD FILE="../../../../../../GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.02.04-14.47.25:982][  0]LogEditorServer: Warning: Can't find file '../../../../../../GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2019.02.04-14.47.25:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.02.04-14.47.25:988][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,419ms to complete.
-[2019.02.04-14.47.25:989][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.007
-[2019.02.04-14.47.26:464][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.02.04-14.47.26:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.02.04-14.47.26:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.02.04-14.47.26:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.02.04-14.47.26:544][  0]LogCollectionManager: Loaded 0 collections in 0.002237 seconds
-[2019.02.04-14.47.26:652][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Saved/Collections/' took 0.01s
-[2019.02.04-14.47.26:652][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/Developers/TitatriX/Collections/' took 0.01s
-[2019.02.04-14.47.26:652][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/GameJameuh3d/Content/Collections/' took 0.01s
-[2019.02.04-14.47.26:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.02.04-14.47.26:668][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2651 classes and 620 folders.
-[2019.02.04-14.47.26:774][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2019.02.04-14.47.26:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:079][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.27:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.02.04-14.47.28:003][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2019.02.04-14.47.28:045][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2019.02.04-14.47.28:287][  0]LogSlate: Took 0.059395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.02.04-14.47.28:334][  0]LogSlate: Took 0.044995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.02.04-14.47.28:377][  0]LogSlate: Took 0.038874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.02.04-14.47.28:681][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2019.02.04-14.47.29:116][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2019.02.04-14.47.29:116][  0]LogLoad: (Engine Initialization) Total time: 80.16 seconds
-[2019.02.04-14.47.29:116][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.02.04-14.47.29:203][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.02.04-14.47.29:331][  0]LogSlate: Took 0.028707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.02.04-14.47.29:404][  1]LogAssetRegistry: Asset discovery search completed in 54.2051 seconds
-[2019.02.04-14.47.29:424][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.02.04-14.47.29:424][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
-[2019.02.04-14.51.42:440][470]Cmd: POLY SELECT ADJACENT WALLS
-[2019.02.04-14.51.48:761][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
->>>>>>> 099170842fcdc3ceb14ba93db7827fcab8e1aae8
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.04-16.24.23:640][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.04-16.24.23:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:641][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:648][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:648][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-16.24.23:648][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-16.24.23:648][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-16.24.23:649][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-16.24.23:650][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.04-16.24.23:728][  0]LogHAL: Display: Platform has ~ 8 GB [8544559104 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.04-16.24.23:728][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.04-16.24.23:728][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-16.24.23:728][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-16.24.23:729][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.04-16.24.23:730][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.04-16.24.23:730][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJameuh3D/Gamejameuh3D/Saved/Config/Windows/Engine.ini]
+[2019.02.04-16.24.23:730][  0]LogInit: Computer: TITATRIX
+[2019.02.04-16.24.23:730][  0]LogInit: User: TitatriX
+[2019.02.04-16.24.23:730][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.04-16.24.23:730][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.04-16.24.23:730][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.02.04-16.24.23:730][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.04-16.24.23:730][  0]LogMemory: Process Physical Memory: 104.40 MB used, 104.41 MB peak
+[2019.02.04-16.24.23:730][  0]LogMemory: Process Virtual Memory: 93.84 MB used, 93.84 MB peak
+[2019.02.04-16.24.23:730][  0]LogMemory: Physical Memory: 4595.58 MB used,  3553.15 MB free, 8148.73 MB total
+[2019.02.04-16.24.23:730][  0]LogMemory: Virtual Memory: 4653.41 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.02.04-16.24.23:756][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.04-16.24.23:756][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.04-16.24.23:758][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.04-16.24.23:762][  0]LogStreaming: Display: Took  0.006s to InitEngineTextLocalization.
+[2019.02.04-16.24.23:762][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.04-16.24.23:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.04-16.24.23:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.04-16.24.24:239][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-16.24.24:239][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.04-16.24.24:326][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.04-16.24.24:326][  0]LogD3D11RHI:       8081/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.04-16.24.24:329][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.04-16.24.24:329][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.04-16.24.24:329][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.04-16.24.24:337][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.04-16.24.24:338][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.04-16.24.24:338][  0]LogWindows: EnumDisplayDevices:
+[2019.02.04-16.24.24:338][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.02.04-16.24.24:338][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-16.24.24:339][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-16.24.24:339][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.04-16.24.24:339][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.04-16.24.24:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.04-16.24.24:339][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.02.04-16.24.24:339][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.02.04-16.24.24:339][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.02.04-16.24.24:394][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.04-16.24.24:424][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.04-16.24.24:911][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.04-16.24.24:927][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.04-16.24.24:940][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.04-16.24.24:954][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.04-16.24.24:969][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.04-16.24.24:983][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.04-16.24.24:997][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.04-16.24.25:013][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.04-16.24.25:020][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:109][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-16.24.25:111][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.04-16.24.25:173][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-16.24.25:173][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-16.24.25:198][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-16.24.25:198][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-16.24.25:212][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.04-16.24.25:226][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.04-16.24.25:239][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.04-16.24.25:254][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.04-16.24.25:309][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-16.24.25:309][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-16.24.25:310][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.04-16.24.25:382][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../GameJameuh3D/Gamejameuh3D/Intermediate/Shaders/WorkingDirectory/5392/).
+[2019.02.04-16.24.25:382][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/F0xcl/AppData/Local/Temp/UnrealShaderWorkingDir/5AB7224C45056AD6801241A8796F3B63/'.
+[2019.02.04-16.24.25:384][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.04-16.24.25:384][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.04-16.24.25:384][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.04-16.24.25:941][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.04-16.24.25:999][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-16.24.25:999][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.04-16.24.26:000][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GameJameuh3D/Gamejameuh3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.04-16.24.26:000][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.04-16.24.26:000][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GameJameuh3D/Gamejameuh3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-16.24.26:000][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.04-16.24.26:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.04-16.24.26:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-16.24.26:013][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.04-16.24.26:026][  0]LogDerivedDataCache: Using Local data cache path C:/Users/F0xcl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.04-16.24.26:026][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.04-16.24.26:026][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.04-16.24.26:048][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.04-16.24.26:050][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.04-16.24.26:051][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.04-16.24.26:156][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2019.02.04-16.24.26:545][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-16.24.26:711][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.04-16.24.26:715][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.04-16.24.26:715][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.04-16.24.26:715][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.04-16.24.26:715][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.04-16.24.26:733][  0]LogNetVersion: Gamejameuh3D 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1734694019)
+[2019.02.04-16.24.27:370][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.102239 seconds
+[2019.02.04-16.24.27:377][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.04-16.24.27:377][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.04-16.24.27:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.04-16.24.28:535][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.04-16.24.28:549][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.04-16.24.30:314][  0]SourceControl: Source control is disabled
+[2019.02.04-16.24.30:314][  0]SourceControl: Source control is disabled
+[2019.02.04-16.24.30:316][  0]SourceControl: Source control is disabled
+[2019.02.04-16.24.30:318][  0]SourceControl: Source control is disabled
+[2019.02.04-16.24.30:517][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.04-16.24.30:611][  0]LogOcInput: OculusInput pre-init called
+[2019.02.04-16.24.30:751][  0]LogEngine: Initializing Engine...
+[2019.02.04-16.24.30:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-16.24.30:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-16.24.30:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-16.24.30:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-16.24.30:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-16.24.31:009][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.04-16.24.31:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.04-16.24.31:106][  0]LogInit: XAudio2 using 'Casque (TX42BD100)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.02.04-16.24.31:125][  0]LogInit: FAudioDevice initialized.
+[2019.02.04-16.24.31:125][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.04-16.24.31:209][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/F0xcl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-16.24.31:216][  0]LogInit: Texture streaming: Enabled
+[2019.02.04-16.24.31:239][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.04-16.24.31:251][  0]LogInit: Transaction tracking system initialized
+[2019.02.04-16.24.31:274][  0]BlueprintLog: New page: Editor Load
+[2019.02.04-16.24.31:353][  0]LocalizationService: Localization service is disabled
+[2019.02.04-16.24.32:007][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/Gamejameuh3D/Content/' took 0.02s
+[2019.02.04-16.24.32:008][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.04-16.24.32:008][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.04-16.24.32:025][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.04-16.24.32:025][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-16.24.32:025][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-16.24.32:025][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-16.24.32:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-16.24.32:186][  0]SourceControl: Source control is disabled
+[2019.02.04-16.24.32:186][  0]Cmd: MAP LOAD FILE="../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-16.24.32:186][  0]LightingResults: New page: Lighting Build
+[2019.02.04-16.24.32:189][  0]MapCheck: New page: Map Check
+[2019.02.04-16.24.32:189][  0]LightingResults: New page: Lighting Build
+[2019.02.04-16.24.35:199][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.04-16.24.35:265][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-16.24.35:291][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-16.24.35:291][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,282ms to complete.
+[2019.02.04-16.24.35:292][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.106
+[2019.02.04-16.24.35:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-16.24.35:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-16.24.35:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-16.24.35:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-16.24.36:035][  0]LogCollectionManager: Loaded 0 collections in 0.001476 seconds
+[2019.02.04-16.24.36:226][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/Gamejameuh3D/Saved/Collections/' took 0.01s
+[2019.02.04-16.24.36:226][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/Gamejameuh3D/Content/Developers/TitatriX/Collections/' took 0.01s
+[2019.02.04-16.24.36:226][  0]LogFileCache: Scanning file cache for directory 'D:/GameJameuh3D/Gamejameuh3D/Content/Collections/' took 0.01s
+[2019.02.04-16.24.36:226][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.04-16.24.36:239][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2651 classes and 620 folders.
+[2019.02.04-16.24.36:402][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.04-16.24.36:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.36:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-16.24.37:542][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.04-16.24.37:608][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.04-16.24.38:179][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.04-16.24.38:182][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.04-16.24.38:220][  0]LogSlate: Took 0.014993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.04-16.24.38:601][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.04-16.24.38:886][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.04-16.24.38:886][  0]LogLoad: (Engine Initialization) Total time: 18.17 seconds
+[2019.02.04-16.24.38:886][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.04-16.24.38:995][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.04-16.24.39:168][  0]LogSlate: Took 0.012227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-16.24.39:354][  2]LogAssetRegistry: Asset discovery search completed in 13.2201 seconds
+[2019.02.04-16.24.39:356][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.04-16.24.39:356][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.02.04-16.34.30:072][369]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.02.04-16.34.30:786][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.04-16.34.32:316][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.04-16.34.39:953][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-16.34.53:567][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.02.04-16.34.55:612][818]Cmd: DELETE
+[2019.02.04-16.34.55:612][818]Cmd: ACTOR DELETE
+[2019.02.04-16.34.55:761][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.34.55:784][818]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.02.04-16.34.57:619][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.02.04-16.34.57:764][934]Cmd: DELETE
+[2019.02.04-16.34.57:764][934]Cmd: ACTOR DELETE
+[2019.02.04-16.34.57:766][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.34.57:789][934]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.02.04-16.34.58:866][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2019.02.04-16.34.59:291][ 20]Cmd: DELETE
+[2019.02.04-16.34.59:291][ 20]Cmd: ACTOR DELETE
+[2019.02.04-16.34.59:295][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.34.59:320][ 20]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.02.04-16.34.59:737][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2019.02.04-16.34.59:835][ 48]Cmd: DELETE
+[2019.02.04-16.34.59:835][ 48]Cmd: ACTOR DELETE
+[2019.02.04-16.34.59:838][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.34.59:864][ 48]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.02.04-16.35.00:282][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.02.04-16.35.00:323][ 73]Cmd: DELETE
+[2019.02.04-16.35.00:324][ 73]Cmd: ACTOR DELETE
+[2019.02.04-16.35.00:328][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.00:357][ 73]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.02.04-16.35.00:774][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.02.04-16.35.00:977][107]Cmd: DELETE
+[2019.02.04-16.35.00:977][107]Cmd: ACTOR DELETE
+[2019.02.04-16.35.00:980][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.01:003][107]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.02.04-16.35.01:852][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.02.04-16.35.02:025][165]Cmd: DELETE
+[2019.02.04-16.35.02:025][165]Cmd: ACTOR DELETE
+[2019.02.04-16.35.02:029][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.02:055][165]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.02.04-16.35.02:426][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2019.02.04-16.35.02:531][190]Cmd: DELETE
+[2019.02.04-16.35.02:531][190]Cmd: ACTOR DELETE
+[2019.02.04-16.35.02:535][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.02:562][190]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.02.04-16.35.02:844][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.02.04-16.35.02:939][210]Cmd: DELETE
+[2019.02.04-16.35.02:939][210]Cmd: ACTOR DELETE
+[2019.02.04-16.35.02:942][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.02:966][210]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.02.04-16.35.04:127][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2019.02.04-16.35.04:672][310]Cmd: DELETE
+[2019.02.04-16.35.04:672][310]Cmd: ACTOR DELETE
+[2019.02.04-16.35.04:676][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.04:698][310]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.02.04-16.35.05:097][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2019.02.04-16.35.05:205][338]Cmd: DELETE
+[2019.02.04-16.35.05:205][338]Cmd: ACTOR DELETE
+[2019.02.04-16.35.05:209][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.05:232][338]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.02.04-16.35.05:498][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2019.02.04-16.35.05:591][357]Cmd: DELETE
+[2019.02.04-16.35.05:592][357]Cmd: ACTOR DELETE
+[2019.02.04-16.35.05:595][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.05:620][357]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.02.04-16.35.05:902][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2019.02.04-16.35.05:984][376]Cmd: DELETE
+[2019.02.04-16.35.05:984][376]Cmd: ACTOR DELETE
+[2019.02.04-16.35.05:987][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.06:014][376]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.02.04-16.35.06:756][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.02.04-16.35.07:318][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.02.04-16.35.07:642][469]Cmd: DELETE
+[2019.02.04-16.35.07:642][469]Cmd: ACTOR DELETE
+[2019.02.04-16.35.07:645][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.07:673][469]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.02.04-16.35.08:006][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2019.02.04-16.35.08:129][494]Cmd: DELETE
+[2019.02.04-16.35.08:129][494]Cmd: ACTOR DELETE
+[2019.02.04-16.35.08:132][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.08:154][494]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.02.04-16.35.08:520][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2019.02.04-16.35.08:598][518]Cmd: DELETE
+[2019.02.04-16.35.08:598][518]Cmd: ACTOR DELETE
+[2019.02.04-16.35.08:600][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.04-16.35.08:624][518]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.02.04-16.35.10:016][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.02.04-16.35.14:148][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.02.04-16.35.23:924][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.02.04-16.35.30:970][846]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.02.04-16.35.44:444][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.02.04-16.35.52:070][ 89]Cmd: POLY SELECT ADJACENT WALLS
+[2019.02.04-16.35.53:768][190]Cmd: POLY SELECT ADJACENT WALLS
+[2019.02.04-16.35.55:236][278]Cmd: POLY SELECT ADJACENT WALLS
+[2019.02.04-16.35.59:740][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.02.04-16.36.03:475][768]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-16.36.03:480][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-16.36.03:738][768]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap180CB26F4970B1A6264EC8993DBBB3C7.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.04-16.36.05:271][768]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap_BuiltData39F006F24CE20E2093685FAF1682B96E.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.04-16.36.17:849][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.02.04-16.36.18:352][539]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.02.04-16.36.20:723][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-16.36.43:906][ 56]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.02.04-16.37.16:813][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.02.04-16.37.20:544][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-16.37.21:192][263]LogActorFactory: Actor Factory created Cube
+[2019.02.04-16.37.22:227][318]LogActorFactory: Actor Factory created Cube
+[2019.02.04-16.37.27:101][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-16.37.27:148][606]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.02.04-16.37.27:331][606]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.04-16.37.27:331][606]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.04-16.37.27:331][606]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.04-16.37.27:331][606]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.31:180][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-16.37.31:229][833]MapCheck: New page: Map Check
+[2019.02.04-16.37.31:249][833]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.04-16.37.31:249][833]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.04-16.37.32:327][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.02.04-16.37.32:346][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.32:346][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.04-16.37.32:355][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.32:355][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.02.04-16.37.32:366][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.32:366][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.04-16.37.32:379][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.32:379][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.02.04-16.37.32:395][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.02.04-16.37.32:412][833]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.02.04-16.37.32:990][833]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.04-16.37.32:990][833]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-16.37.32:990][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-16.37.32:990][833]TextureStreamingBuild: Display: Compiling optional shaders took 0.670 seconds.
+[2019.02.04-16.37.33:003][833]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2019.02.04-16.37.33:014][833]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2019.02.04-16.37.33:086][833]LightingResults: New page: Lighting Build - 4 févr. 2019 18:37:33
+[2019.02.04-16.37.33:140][833]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.04-16.37.33:258][833]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.04-16.37.33:277][833]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.04-16.37.34:328][833]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.04-16.37.34:328][833]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5392
+[2019.02.04-16.37.36:731][833]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.04-16.37.36:731][833]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.04-16.37.36:731][833]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.04-16.37.36:731][833]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.04-16.37.36:731][833]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.04-16.37.36:970][833]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.04-16.37.36:970][833]MapCheck: New page: FirstPersonExampleMap - 4 févr. 2019 18:37:36
+[2019.02.04-16.37.36:993][833]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.02.04-16.37.36:994][833]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 23,502ms to complete.
+[2019.02.04-16.37.37:018][833]LogEditorBuildUtils: Build time 0:05
+[2019.02.04-16.37.37:188][834]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2019.02.04-16.37.37:206][834]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-16.37.37:206][834]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2019.02.04-16.37.37:227][834]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-16.38.53:677][994]Job is a success!
+[2019.02.04-16.39.06:662][995]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.713s
+[2019.02.04-16.39.06:675][995]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.04-16.39.06:675][995]LogVolumetricLightmapImport:      BrickData 305x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.02.04-16.39.06:675][995]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.04-16.39.06:676][995]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2019.02.04-16.39.06:676][995]LogVolumetricLightmapImport:          1: 6.6% covering 6.3% of volume
+[2019.02.04-16.39.06:676][995]LogVolumetricLightmapImport:          2: 91.8% covering 1.4% of volume
+[2019.02.04-16.39.13:170][995]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 128X64)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.02.04-16.39.13:171][995]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.02.04-16.39.14:016][995]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 64X64)
+[2019.02.04-16.39.14:017][995]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.02.04-16.39.14:905][995]Lightmass on TITATRIX: 1:35 min total, 145 ms importing, 34 ms setup, 8.20 sec photons, 1:26 min processing, 0 ms extra exporting [8/8 mappings]. Threads: 10:07 min total, 5:15 min processing.
+[2019.02.04-16.39.18:680][995]LogStaticLightingSystem: Illumination: 1:43 min (4.63 sec encoding lightmaps, 850 ms encoding shadowmaps)
+[2019.02.04-16.39.18:680][995]LogStaticLightingSystem: Lightmap texture memory:  32.1 MB (32.1 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.02.04-16.39.18:680][995]LogStaticLightingSystem: Shadowmap texture memory: 16.0 MB (16.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2019.02.04-16.39.25:933][995]DumpUnbuiltLightIteractions
+[2019.02.04-16.39.25:933][995]Lights with unbuilt interactions: 0
+[2019.02.04-16.39.25:933][995]
+[2019.02.04-16.39.25:933][995]Primitives with unbuilt interactions: 0
+[2019.02.04-16.39.26:789][996]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.04-16.39.27:335][996]MapCheck: New page: FirstPersonExampleMap - 4 févr. 2019 18:39:26
+[2019.02.04-16.39.27:840][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 894,99ms to complete.
+[2019.02.04-16.41.17:533][559]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-16.41.17:554][559]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-16.41.25:249][573]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap033A36314FA3D4F8542173ADE5A2CEC8.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.04-16.41.27:568][573]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap_BuiltDataDAA8412644BE9AFC54E9ED92F9234949.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.04-16.43.59:928][661]LogSlate: Took 0.095252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.04-16.44.03:184][836]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap463E1F734FFF8599062B69A177DBCE83.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.04-16.44.04:167][836]LogSavePackage: Moving '../../../../../../GameJameuh3D/Gamejameuh3D/Saved/FirstPersonExampleMap_BuiltData8D66526C46A7097F6D9436B6F7EC76D1.tmp' to '../../../../../../GameJameuh3D/Gamejameuh3D/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.04-16.44.08:815][998]Cmd: SELECT NONE
+[2019.02.04-16.44.11:084][  7]LogSlate: Window 'Gamejameuh3D - Unreal Editor' being destroyed
+[2019.02.04-16.44.13:116][  8]Cmd: QUIT_EDITOR
+[2019.02.04-16.44.14:055][  8]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.04-16.44.14:364][  8]LogExit: Preparing to exit.
+[2019.02.04-16.44.17:312][  8]LogExit: Editor shut down
+[2019.02.04-16.44.17:313][  8]LogExit: Transaction tracking system shut down
+[2019.02.04-16.44.22:231][  8]LogExit: Object subsystem successfully closed.
+[2019.02.04-16.44.25:242][  8]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.04-16.44.25:248][  8]LogD3D11RHI: Shutdown
+[2019.02.04-16.44.25:282][  8]LogD3D11RHI: CleanupD3DDevice
+[2019.02.04-16.44.25:985][  8]LogD3D11RHI: ~FD3D11DynamicRHI
