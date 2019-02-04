@@ -731,3 +731,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.04-13.34.52:539][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.02.04-13.34.52:765][732]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap09FCE6F34E3BF69B7CD3808B6AF54B8C.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.02.04-13.34.56:053][732]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap_BuiltDataDA67ED544B386C5E5CDA16B041989C38.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.04-13.36.11:164][925]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.02.04-13.36.13:147][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.04-13.36.21:596][552]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.04-13.36.21:640][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.36.22:463][603]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.04-13.36.22:507][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.36.37:646][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.37.44:409][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.37.44:653][359]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap786CC7A24393A2A2016251A410EA38A1.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.04-13.37.47:657][359]LogSavePackage: Moving '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Saved/FirstPersonExampleMap_BuiltDataB34BE2DC40B3C43EC6C8719D651DD82D.tmp' to '../../../../../../Users/Matilde/Desktop/IIM/GameJam 3D/GameJameuh3D/GameJameuh3d/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.02.04-13.46.10:802][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.46.12:304][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-13.46.32:100][402]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.04-13.46.32:108][402]LogSlate: Window 'Editor Preferences' being destroyed
